@@ -43,7 +43,7 @@ const (
 	//BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
 	//ES_URL = "http://35.226.206.142:9200"
-	ES_URL = "http://35.232.20.152:9200/"
+	ES_URL = "http://104.154.32.54:9200/"
 )
 
 func main() {
